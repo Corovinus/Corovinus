@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
-- 🔭 I’m currently working on [Industrial Programming](https://github.com/Corovinus/Industrial-Programming)
+- 🔭 I’m currently working on <a href="https://github.com/Corovinus/Industrial-Programming">Industrial Programming</a>
+<br></br>
+- 🌱 I’m currently learning <b>Java, C++ WinApi, Algorithms and data structures</b>
+<br></br>
+- 📫 How to reach me <b>apancenok@gmail.com</b>
+<br></br>
+- ⚡️ Fun fact <b>dumplings are awesome</b>
 
-- 🌱 I’m currently learning **Java, C++ WinApi, Algorithms and data structures**
-
-- 📫 How to reach me **apancenok@gmail.com**
-
-- ⚡ Fun fact **dumplings are awesome**
 
 <p align="left">
 </p>
